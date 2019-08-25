@@ -1,0 +1,1 @@
+This post is a basic HTML (no JS or CSS) document that contains my CV
